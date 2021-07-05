@@ -10,10 +10,10 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 250px;
 }
 .half-width{
-    width: 40%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -22,4 +22,10 @@ h1{
     color: whitesmoke;
     font-weight: 200;
     border-radius: 10px;
+}
+
+.about-me{
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    
 }
