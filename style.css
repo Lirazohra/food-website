@@ -13,5 +13,13 @@ h1{
     margin-bottom: 150px;
 }
 .half-width{
-    width: 50%;
+    width: 40%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    color: whitesmoke;
+    font-weight: 200;
+    border-radius: 10px;
 }
