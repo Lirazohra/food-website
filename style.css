@@ -1,0 +1,17 @@
+body{
+    font-family: 'Uchen', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 30px;
+}
+.brown-color{
+    color: brown;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+}
